@@ -1,0 +1,35 @@
+*Fundamentals of Software Testing*
+
+- Software testing is the process of checking the software's accuracy into account of all its properties( reusability, reliability, scalability, portability and usability)
+
+- Verification process checks whether the program aligns with the documentation requirements 
+
+- Validation process checks the software accuracy
+
+- Manual testing means manually checking the functionalities in accordance with the needs of the client. To ensure thoroughness, testers employ test plans, test cases or test scenarios.
+
+- Automation testing involves transforming any manual test cases into test scripts with the help of automation technologies or any programming language.
+
+- Black box testing involves testing techniques that checks functionality of a software without delving into the code itself. i.e customer specified requirement specification. i.e code invisible
+
+- White box testing involves checking every line of code before passing it to the test engineer. i.e system's internal perspective. i.e code visible
+
+- Black box testing/ Closed box testing / Data-driven testing
+
+- White box testing/ Structural testing / Clear box testing
+
+- Levels of Software Testing starts from : Unit Testing --> Integration Testing --> System Testing --> Acceptance Testing
+
+
+
+
+
+*Unit Testing*
+
+- Unit testing is done on smallest testable parts of the code like functions, methods, module, procedure or class. 
+
+- It's usually the first level of testing
+
+- Unit testing can be proved crucial for reasons like early bug detection, better code writing, simplifying debugging and provision of documentation
+
+- 
