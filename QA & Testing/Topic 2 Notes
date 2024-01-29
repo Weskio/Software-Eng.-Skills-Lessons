@@ -1,0 +1,35 @@
+*Unit Testing*
+
+- Unit testing is done on smallest testable parts of the code like functions, methods, module, procedure or class. 
+
+- It's usually the first level of testing
+
+- Unit testing can be proved crucial for reasons like early bug detection, better code writing, simplifying debugging and provision of documentation
+
+- Anatomy of a Unit Test :
+1. Test Fixtures/ Test Context: Components of a unit test responsible for preparing the neccessary environment to execute the test case. E.g 
+
+2. Test Case: Piece of code designed to verify the behaviour of another unit of code, ensuring that the unit under test performs as expected.
+
+3. Test Runner: A framework that orchestrate the execution of multiple unit tests and provide reporting and analysis of unit tests.It can even run tests by priority. 
+
+4. Test Data: Data to cover testing scenarios. E.g 
+Normal Cases: Expected input / output values for that unit, 
+Boundary cases: acceptable limit, 
+invalid/error cases: how the unit responds to errors,
+corner cases: extreme scenarios that have significant impact on the unit/system
+
+5. Mocking & Stubbing: Techniques used in isolating the code being tested from its dependencies.
+
+
+#Characteristics of Good Unit Test#
+
+1. Fast
+2. Isolated 
+3. Easily Automated
+
+- Test Driven Development(TDD) involves the practice of writing automated unit tests prior to writing code which will help in guiding the code writing.
+
+- In TDD, your first unit test will surely fail since there's no code, after that write code until those tests pass and now refactor the code to improve your code and run unit tests for the subsequent features.
+
+- "One assertion per test rule"
