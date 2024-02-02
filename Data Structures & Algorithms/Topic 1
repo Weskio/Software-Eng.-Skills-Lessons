@@ -1,0 +1,25 @@
+*Getting Started with Data Structures*
+
+- At the backbone of every software/program there are two entities: Data and Algorithm
+
+- Algorithms transform data into something a program can effectively use.
+
+- Data structures are the way we're able to store and retrieve data. 
+
+- Data structures handle four(4) main functions for us : 1. Inputting information, 2. Processing information , 3. Maintaining information , 4. Retrieving information
+
+- Inputting information(how the data is recieved): What kind of information can be included?, Will the new data be added to the beginning, end or somewhere in the middle of the existing data? , Does an existing point of data need to be updated or destroyed?
+
+- Processing information(how the data is mainpulated in the data structure): How does existing data that has been stored need to change to accomodate new, updated, or removed data? 
+
+- Maintaining information(how the data is organized within the structure): Which relationships need to be maintained between pieces of data? How much memory is allocated to accomodate the data? 
+
+- Retriving information(finding and returning stored data): How can we access that information again? What steps does the data structure need to get the information back to us?
+
+- Python and Js languages manages memory for you but not C
+
+- Runtime: how long it'll take a data structure to accomplish a task for you.
+
+- API allows end-users to access properties and methods of data structures easily and without needint to do the "behind the scenes" work.
+
+- A stack is a data structure that only allows data to be added or removed from the 'top' of the stack.
